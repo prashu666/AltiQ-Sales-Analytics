@@ -4,9 +4,11 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report] 
+    **1.** Create a _[customer performance report]
+      (https://github.com/prashu666/AltiQ-Sales-Analytics/blob/main/Customer%20Performnce%20For%20Fiscal%20Year.pdf)
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]
+  **2.** Conduct a comprehensive comparison between _[market performance and sales targets]
+    (https://github.com/prashu666/AltiQ-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -19,8 +21,11 @@
 - **Project objective:** 
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]
+  (https://github.com/prashu666/AltiQ-Sales-Analytics/blob/main/P%26L%20FY.pdf)
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets]
+  (https://github.com/prashu666/AltiQ-Sales-Analytics/blob/main/P%26L%20FY%20Market%20Wise.pdf)
+  (https://github.com/prashu666/AltiQ-Sales-Analytics/blob/main/P%26L%20FY%20QUATERLY%20FOR%20EACH%20YEAR.pdf)
   
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
